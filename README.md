@@ -4,3 +4,4 @@ GSD is a utility application that will provide you various services across a ser
 To hire a service, you can view [our website](https://getstuffdonewebsite.netlify.app) or download the app from this repository.\
 The website includes detail such as our Terms of Service and the Progress Sheet which holds all data about our orders and updates
 You can also download our desktop app from this repository.
+View our [Terms Of Service.](https://docs.google.com/document/d/1sKoZ2Dyv1tQ7Wfl8OCMlpBWfPtatzVgIIttIHWMMZxU/edit?usp=sharing)
